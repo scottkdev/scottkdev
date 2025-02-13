@@ -2,7 +2,7 @@
 
 # Hello World
 
-I am Scott 👋… A Software Engineer with experience designing, developing, and optimizing web applications using Angular (versions 2 through 18), React.js, Next.js, and TypeScript. Proficient in Node.js to build RESTful APIs using Express.js, PostgreSQL, MongoDB, Docker, and Docker Compose, including setup of AWS services CodePipeline, CodeBuild, CodeDeploy, CodeCommit, WAF, CloudFront, S3, RDS, EC2, Route 53, ACM, and ELB.
+I am Scott 👋… A Software Engineer with experience designing, developing, and optimizing web applications using Angular (versions 2 through 18), React.js, Next.js, Vue.js, and TypeScript. Proficient in Node.js, PHP, Python to build RESTful APIs using Express.js, Laravel, Django, PostgreSQL, MongoDB, MySQL, Docker, and Docker Compose, including setup of AWS services CodePipeline, CodeBuild, CodeDeploy, CodeCommit, WAF, CloudFront, S3, RDS, EC2, Route 53, ACM, and ELB.
 
 Proven ability to collaborate with cross-functional teams to deliver high-quality user interfaces that meet WCAG accessibility standards, enhancing search engine ranking. In addition to advanced English proficiency and experience leading technical meetings besides integration discussions.
 
@@ -23,6 +23,9 @@ Proven ability to collaborate with cross-functional teams to deliver high-qualit
 <img src="https://skillicons.dev/icons?i=babel" height="30" alt="babel logo" />
 <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
 <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+<img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo" />
+<img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
+<img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
