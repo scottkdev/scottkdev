@@ -15,6 +15,10 @@ Proven ability to collaborate with cross-functional teams to deliver high-qualit
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
+<img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo" />
+<img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
+<img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" />
+<img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
 <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazon web services logo" />
 <img src="https://skillicons.dev/icons?i=babel" height="30" alt="babel logo" />
 <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
