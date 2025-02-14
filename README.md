@@ -1,10 +1,31 @@
 ![](https://komarev.com/ghpvc/?username=scottkdev&style=flat-square)
 
-# Hello World
+# 🌟 Nice to meet you!
 
-I am Scott 👋… A Software Engineer with experience designing, developing, and optimizing web applications using Angular (versions 2 through 18), React.js, Next.js, Vue.js, and TypeScript. Proficient in Node.js, PHP, Python to build RESTful APIs using Express.js, Laravel, Django, PostgreSQL, MongoDB, MySQL, Docker, and Docker Compose, including setup of AWS services CodePipeline, CodeBuild, CodeDeploy, CodeCommit, WAF, CloudFront, S3, RDS, EC2, Route 53, ACM, and ELB.
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>
+ Hey there! I'm Scott, a responsible, ambitious, and creative Full-Stack Web Developer. <br> I thrive on creating user-friendly interfaces, developing & optimizing web applications and always eager to explore new technologies. As a proactive teammate, I'm open-minded and value collaboration. Beyond coding, I'm passionate about honing my skills, whether it's through reading tech articles or diving into technical literature. When I'm not in front of a screen, you can find me on the field playing soccer, hitting the court for some basketball, diving into a thrilling novel, sketching scenes from my imagination, or enjoying the latest movies.
+  </samp>
+  <br> <br>
+</p>
 
-Proven ability to collaborate with cross-functional teams to deliver high-quality user interfaces that meet WCAG accessibility standards, enhancing search engine ranking. In addition to advanced English proficiency and experience leading technical meetings besides integration discussions.
+### ✨ A little more about me...  
+
+```javascript
+const scott = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, PHP, Java, Node.js],
+  tools: [Angular, React, Vue, RxJS, NgRx, Redux, Pinia, Storybook, NgZorro, Tailwind, Docker],
+  architecture: ["singleton pattern", "MVVM pattern", "factory pattern"],
+  otherTools: [Git, Figma, NPM, Firebase, AdobeXD],
+  techCommunities: {
+    volunteer: "Local",
+    mentor: "RS School"
+  },
+}
+
+```
 
 ## Skillset
 
