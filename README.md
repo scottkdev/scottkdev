@@ -5,7 +5,7 @@
 <h2 align="center">  ✨ Whoami ✨ </h2>
 <p align="center">
   <samp>
- Hey there! I'm Scott, a responsible, ambitious, and creative Full-Stack Web Developer. <br> I thrive on creating user-friendly interfaces, developing & optimizing web applications and always eager to explore new technologies. As a proactive teammate, I'm open-minded and value collaboration. Beyond coding, I'm passionate about honing my skills, whether it's through reading tech articles or diving into technical literature. When I'm not in front of a screen, you can find me on the field playing soccer, hitting the court for some basketball, diving into a thrilling novel, sketching scenes from my imagination, or enjoying the latest movies.
+ I'm Scott, a responsible, ambitious, and creative Full-Stack Web Developer. <br> I thrive on creating user-friendly interfaces, developing & optimizing web applications and always eager to explore new technologies. As a proactive teammate, I'm open-minded and value collaboration. Beyond coding, I'm passionate about honing my skills, whether it's through reading tech articles or diving into technical literature. When I'm not in front of a screen, you can find me on the field playing soccer, hitting the court for some basketball, diving into a thrilling novel, sketching scenes from my imagination, or enjoying the latest movies.
   </samp>
   <br> <br>
 </p>
